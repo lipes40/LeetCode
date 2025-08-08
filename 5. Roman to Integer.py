@@ -12,7 +12,7 @@ def romanToInt(s):
 
     lista = list(s)
 
-    map = [] 
+    map = []
 
     result = 0
 
